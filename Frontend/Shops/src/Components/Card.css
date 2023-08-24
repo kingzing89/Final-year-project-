@@ -1,0 +1,45 @@
+.Card-profile{
+    width: 300px;
+    height: 500px;
+    background: white;
+    border-radius:10px ;
+    border: 1px solid lightblue;
+    margin: 10px 20px 10px 50px;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+   
+
+
+   
+}
+.lower-text-container{
+    text-align: center;
+}
+
+.upper-container{
+    height: 100px;
+    background: linear-gradient(to left,#917de7,#4188cf);
+}
+
+.image-container img{
+   
+    background: white;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    padding:5px;
+    transform:translate(65px,50px);
+    justify-content: center;
+}
+
+img{
+
+    border:2px solid #8e00b9;
+
+}
+
+.lower-container{
+    margin-top: 100px;
+}
+
+
+

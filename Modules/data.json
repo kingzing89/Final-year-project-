@@ -1,0 +1,78 @@
+[{
+        "name":"NEXUM-CAP20MG2X7'S",
+       "category":["Acidity"],
+       "drugname":"Esomeprazole",
+        "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/04369_54b3c98f-e23c-457f-8024-935ee3cc5ef1_1800x1800.jpg?v=1670930941",
+        "shop":"64493feeb71c69f5c6451a09",
+       "price":"148.76",
+        "size":"20mg",
+        "quantity":"40",
+        "mfg":"2022-3-12",
+        "exp":"2025-3-12"
+      },
+      {
+          
+          "name":"Flagyl Tablets 400mg 20X10's",        
+          "category":["Acidity"],
+          "drugname":"Esomeprazole",
+          "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/06644_1800x1800.png?v=1653028687",
+          "shop":"644d749181f61cbc632e8edf",
+          "price":"24.20",
+          "size":"400mg",
+          "quantity":"40",
+          "mfg":"2022-3-12",
+          "exp":"2025-3-12"
+      
+      },
+      
+      {
+        
+        "name": "Lasoride Tablets 3X10's",
+        "price":"181.50" ,
+        "category":["Hypertension"],
+        "drugname": "Furosemide, Amiloride",
+        "size":"40mg / 5mg" ,
+        "shop":"64493feeb71c69f5c6451a09",
+        "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/03828_1_384x384.png?v=1664537385",
+        "quantity":"40",
+        "mfg":"2022-3-12",
+        "exp":"2025-3-12"
+      },
+      { 
+        "name": "Ascard Tab 75 MG 3x10's",
+        "price":"23.04" ,
+        "drugname": "Acetylsalicylic Acid",
+        "size":"75 mg" ,
+        "category": ["Stroke"],
+        "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/05405_384x384.png?v=1644213220",
+        "shop":"64493feeb71c69f5c6451a09",
+        "quantity":"40",
+        "mfg":"2022-3-12",
+        "exp":"2025-3-12"
+    },
+      { 
+      
+        "name": "Ascard Tab 100 MG 3x10's",
+        "price":"23.04" ,
+        "drugname": "Acetylsalicylic Acid",
+        "size":"100 mg" ,
+        "category": ["Stroke"],
+        "shop":"64493feeb71c69f5c6451a09",
+        "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/05405_384x384.png?v=1644213220",
+        "quantity":"40",
+        "mfg":"2022-3-12",
+        "exp":"2025-3-12"
+      },
+      {  
+          "name":"Exforge Tablets 5/80mg 28's",
+          "price":"727.08" ,
+          "shop":"64493feeb71c69f5c6451a09",
+          "drugname": "Amlodipine, Valsartan",
+          "size":"5/80mg" ,
+          "category": ["Hypertension"],
+          "image":"https://cdn.shopify.com/s/files/1/0088/4758/9476/products/06147_1_800x384.jpg?v=1596438845",
+          "quantity":"40",
+          "mfg":"2022-3-12",
+          "exp":"2025-3-12"
+      }
+]

@@ -1,0 +1,43 @@
+.layout{
+   
+    margin-top: 50px;
+    width: 100%;
+   
+   
+  
+   
+   
+    
+}
+
+.bar{
+    position: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 5px;
+    left: 50px;
+    background-color: lightblue;
+    color: red;
+  
+
+    
+
+}
+
+.card-info{
+    
+    border: 2px solid black;
+   
+    background-image: url(../Images/Backimage.jpg)  ;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: '100vw';
+    height:'100vh';
+    margin-right: auto;
+    margin-left: auto;
+    
+  
+  
+    
+}
